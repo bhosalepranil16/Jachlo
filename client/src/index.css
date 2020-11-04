@@ -1,0 +1,11 @@
+* {
+  font-family: 'Lusitana', serif;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  background-image: url('./assets/bg1.jpg');
+  background-repeat: no-repeat;
+}
+
