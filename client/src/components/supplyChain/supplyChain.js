@@ -60,10 +60,9 @@ const SupplyChain = (props) => {
                         <option value="Distribution Centers and Warehouses">Distribution Centers and Warehouses</option>
                         <option value="Wholesaler">Wholesaler</option>
                         <option value="Distributor">Distributor</option>
-                        <option value="Pharmacy">Pharmacy</option>
                         <option value="Retailer">Retailer</option>
+                        <option value="Pharmacy">Pharmacy</option>
                         <option value="Hospital">Hospital</option>
-                        <option value="Consumer">Consumer</option>
                     </Form.Control>
                 </Form.Group>   
                 <Form.Group>
